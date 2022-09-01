@@ -5,24 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonabogard" alt="jonabogard" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@jorge56852040" target="blank"><img src="https://img.shields.io/twitter/follow/@jorge56852040?logo=twitter&style=for-the-badge" alt="@jorge56852040" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jorge" target="blank"><img src="https://img.shields.io/twitter/follow/jorge?logo=twitter&style=for-the-badge" alt="jorge" /></a> </p>
 
 - 🔭 I’m currently not working but **I´m study CECyTEM student**
 
-- 🤝 I’m looking for help with my twitter profile **@jorge56852040**
+- 🤝 I’m looking for help with my twitter profile **https://twitter.com/jorge56852040**
 
 - 👨‍💻 All of my projects are available at my github profile [JonaBogard](JonaBogard)
-
-- 📝 I regularly write articles on [@jorge56852040](@jorge56852040)
 
 - 📫 How to reach me **verj050907hmcrdra8@soycecytem.mx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@jorge56852040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jorge56852040" height="30" width="40" /></a>
-<a href="https://fb.com/jona vera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jona vera" height="30" width="40" /></a>
-<a href="https://instagram.com/tiageorgina21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiageorgina21" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tlacuajhon's" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tlacuajhon's" height="30" width="40" /></a>
+<a href="https://twitter.com/jorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorge" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/tia.georgina.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tia.georgina.21" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/tiageorgina21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tiageorgina21/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucsxjomgwynyucupndm8ijug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsxjomgwynyucupndm8ijug" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/tjfa7urZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tjfa7urZ" height="30" width="40" /></a>
 </p>
 
@@ -34,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonabogard&show_icons=true&locale=en" alt="jonabogard" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonabogard&" alt="jonabogard" /></p>
+
